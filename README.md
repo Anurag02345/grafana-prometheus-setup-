@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="/assets/Grafana.png" alt="Grafana Logo" style="width: 200px; height: auto;">
-    <img src="/assets/Prometheus.png" alt="Prometheus Logo" style="width: 200px; height: auto;">
+    <img src="Grafana.png" alt="Grafana Logo" style="width: 200px; height: auto;">
+    <img src="Prometheus.png" alt="Prometheus Logo" style="width: 200px; height: auto;">
 </div>
 
 # Monitoring Stack with Prometheus and Grafana
@@ -29,13 +29,13 @@ This project sets up a complete monitoring stack using Prometheus and Grafana wi
 docker-compose up -d
 ```
 
-![Image](\assets\WhatsApp Image 2025-04-25 at 21.19.25_7bc3b3e1.jpg)
+![Image](abc.jpg)
 
 ## Accessing the Services
 
 -   **Prometheus**: http://localhost:9090
 
-![Image](/assets/Screenshot%202025-04-19%20101841.png)
+![Image](Screenshot%202025-04-19%20101841.png)
 
 -   **Grafana**: http://localhost:3000
     -   Default credentials: admin/admin
